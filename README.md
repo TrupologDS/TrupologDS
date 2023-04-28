@@ -1,8 +1,8 @@
 ### Hi there, I'm Alexander Sorocin aka Trupolog 🤓
 
 ## I'm a Data Science enjoer!
-- 🔭 I’m currently looking for a job.
-- 🥅 2023 Goals: Find a job and upgrade my knowledge in the field of Machine Learning.
+- 🔭 I find job at SBER Data Science Trainee.
+- 🥅 2023 Goals: Find a job(done) and upgrade my knowledge in the field of Machine Learning.
 - ⚡ Fun fact: I hate LaTex 🤬.
 
 ### Connect with me:
