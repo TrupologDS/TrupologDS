@@ -3,7 +3,7 @@
 ## I'm a Data Science enjoer!
 - 🔭 I find job at SBER Data Science Trainee.
 - 🥅 2023 Goals: Find a job(done) and upgrade my knowledge in the field of Machine Learning.
-- ⚡ Fun fact: I hate LaTex 🤬.
+- ⚡ Fun fact: My favourite app is Evernote 🐘.
 
 ### Connect with me:
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
