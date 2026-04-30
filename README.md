@@ -37,7 +37,6 @@
 
 #### AI & Research
 <img align="left" alt="Hugging Face" width="32px" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
-<img align="left" alt="OpenAI" width="32px" src="https://cdn.simpleicons.org/openai/74AA9C" />
 <img align="left" alt="LangChain" width="32px" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
 <img align="left" alt="Weights & Biases" width="32px" src="https://cdn.simpleicons.org/weightsandbiases/FFBE00" />
 <img align="left" alt="MLflow" width="32px" src="https://cdn.simpleicons.org/mlflow/0194E2" />
@@ -50,7 +49,6 @@
 <img align="left" alt="Apache Kafka" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" />
 <img align="left" alt="Apache Airflow" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" />
 <img align="left" alt="Hadoop" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" />
-<img align="left" alt="dbt" width="32px" src="https://cdn.simpleicons.org/dbt/FF694B" />
 <img align="left" alt="Databricks" width="32px" src="https://cdn.simpleicons.org/databricks/FF3621" />
 <img align="left" alt="Snowflake" width="32px" src="https://cdn.simpleicons.org/snowflake/29B5E8" />
 <br clear="left" />
