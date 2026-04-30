@@ -1,9 +1,9 @@
 ### Hi there, I'm Alexander Sorocin aka Trupolog 🤓
 
-## I'm a Data Science enjoer!
-- 🔭 I find job at SBER Data Science Trainee.
-- 🥅 2023 Goals: Find a job(done) and upgrade my knowledge in the field of Machine Learning.
-- ⚡ Fun fact: My favourite app is Evernote 🐘.
+## I'm a Data Science enjoyer!
+- 🔭 I have been working as a Data Scientist for 4+ years, and for the last year I have held a Senior position at a large bank (VTB).
+- 🥅 2026 Goals: Get accepted into a PhD program.
+- ⚡ Fun fact: I really love research and plan to publish my first scientific paper soon.
 
 ### Connect with me:
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
