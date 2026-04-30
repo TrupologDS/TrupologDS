@@ -1,4 +1,4 @@
-### Hi there, I'm Alexander Sorocin aka Trupolog 🤓
+### Hi there, I'm Aleksandr Sorokin
 
 ## I'm a Data Science enjoyer!
 - 🔭 I have been working as a Data Scientist for 4 years, and for the last 1.5 years I have held a Senior position at a large bank.
