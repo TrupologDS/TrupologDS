@@ -23,9 +23,9 @@ Run 001 includes:
 
 Run 001 showed mixed behavior: format compliance and overall rule-based score improved on a 60-prompt project-local reliability suite, while strict instruction-following regressed on exact-output and length/count constraints. The report treats this as a debugging signal, not a benchmark claim.
 
-### Data Science / NLP Projects
+### AI Research Projects
 
-[data-science-projects](https://github.com/TrupologDS/data-science-projects) is a portfolio collection of selected NLP, retrieval, CV and ML experiments, including Russian LLM pretraining and SFT, semantic retrieval over arXiv papers, NEREL multitask information extraction and CLIP product search.
+[ai-research-projects](https://github.com/TrupologDS/ai-research-projects) collects selected LLM, NLP, retrieval and vision-language research-engineering projects: Russian LLM pretraining and SFT, semantic retrieval over arXiv papers, NEREL multitask information extraction and CLIP product search.
 
 ### ML Engineering Projects
 
@@ -34,6 +34,10 @@ Run 001 showed mixed behavior: format compliance and overall rule-based score im
 ### Data Engineering Projects
 
 [data-engineering-projects](https://github.com/TrupologDS/data-engineering-projects) covers data infrastructure foundations for ML systems: SQL, ETL, warehouse-style pipelines, Spark, Airflow, Kafka-style workflows, Docker and Kubernetes.
+
+### Classic Data Science Projects
+
+[data-science-projects](https://github.com/TrupologDS/data-science-projects) is a general ML portfolio archive with tabular modeling, time-series forecasting, computer vision and statistical analysis projects.
 
 ## What I Work On
 
